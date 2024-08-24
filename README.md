@@ -28,7 +28,7 @@ LostInVIT aims to create a more organized and supportive environment for everyon
 
 ## Live Demo
 
-Check out my project [here](https://lost-in-vit-bhopal.vercel.app/)
+Check out my project [here](https://lostandfound-one.vercel.app/)
 
 
 
